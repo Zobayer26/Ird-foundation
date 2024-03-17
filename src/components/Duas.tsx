@@ -40,12 +40,12 @@ const Duas = () => {
                                 Surah Al-Fatir 35:15
                             </p>
                         </div>
-                        <div className="flex justify-end gap-4">
-                            <IoCopyOutline />
-                            <CiBookmark />
-                            <HiOutlineLightBulb />
-                            <IoShareSocialOutline />
-                            <MdOutlineReportGmailerrorred />
+                        <div className="flex opacity-50 justify-end gap-4">
+                            <IoCopyOutline size={20}/>
+                            <CiBookmark size={20}/>
+                            <HiOutlineLightBulb size={20}/>
+                            <IoShareSocialOutline size={20} />
+                            <MdOutlineReportGmailerrorred size={20}/>
                         </div>
                     </div>
                 ))
